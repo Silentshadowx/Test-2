@@ -1,0 +1,43 @@
+{
+    "name": "blackbirds-compendium",
+    "title": "Blackbirds Compendium",
+    "description": "A module containing the exported Blackbirds Compendium compendium.",
+    "version": "0.7",
+    "library": "false",
+    "manifestPlusVersion": "0.7",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "NexusFlamehart",
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Blackbirds Compendium",
+            "module": "blackbirds-compendium",
+            "path": "packs/world-blackbirds-compendium-1668644763355.db",
+            "name": "world-blackbirds-compendium-1668644763355"
+        },
+        {
+            "type": "Item",
+            "label": "Blackbirds Skills",
+            "module": "blackbirds-compendium",
+            "path": "packs/world-blackbirds-skills-1668644763355.db",
+            "name": "world-blackbirds-skills-1668644763355"
+        },
+        {
+            "type": "Item",
+            "label": "Blackbirds Conditions",
+            "module": "blackbirds-compendium",
+            "path": "packs/world-blackbirds-conditions-1668644763355.db",
+            "name": "world-blackbirds-conditions-1668644763355"
+        },
+        {
+            "type": "Actor",
+            "label": "Blackbirds Bestiary",
+            "module": "blackbirds-compendium",
+            "path": "packs/world-blackbirds-bestiary-1668644763355.db",
+            "name": "world-blackbirds-bestiary-1668644763355"
+        }
+    ],
+    "manifest": "https://play.nexusoffantasy.com/compendium2module/blackbirds-compendium/module.json",
+    "download": "https://play.nexusoffantasy.com/compendium2module/blackbirds-compendium/module-zip.txt"
+}
